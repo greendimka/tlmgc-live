@@ -1,0 +1,364 @@
+[
+	{
+		"address": "Rønningsvegen 46",
+		"domain": "defaultDomain",
+		"username": "LeifEinar",
+		"city": "Trondheim",
+		"agentId": "999999",
+		"firstName": "Leif Einar",
+		"lastName": "Aune",
+		"password": "",
+		"sipUser": "10000",
+		"sipHost": "tmgdemo3.telemagic.no",
+		"sipSecret": "",
+		"roles": [
+			"agent",
+			"admin",
+			"experimental"
+		],
+		"permissions": {
+			"accessAllJobs": false,
+			"disableStartManual": false,
+			"accessOwnRecordings": false,
+			"remotelogin": true,
+			"accessRecordings": false
+		}
+	},
+	{
+		"address": "Ordfører Nielsensvei",
+		"domain": "defaultDomain",
+		"username": "Tore65",
+		"city": "Arendal",
+		"agentId": "2000",
+		"firstName": "tore",
+		"lastName": "Sælen",
+		"password": "",
+		"sipUser": "10002",
+		"sipHost": "tmgdemo3.dyndns.biz",
+		"sipSecret": "",
+		"roles": [
+			"observer",
+			"agent",
+			"boffice",
+			"bookingowner",
+			"admin",
+			"experimental",
+			"teamleader",
+			"superuser"
+		],
+		"permissions": {
+			"accessAllJobs": false,
+			"disableStartManual": false,
+			"accessOwnRecordings": false,
+			"remotelogin": true,
+			"accessRecordings": false
+		}
+	},
+	{
+		"address": "x",
+		"domain": "defaultDomain",
+		"username": "Tore66",
+		"city": "x",
+		"agentId": "1234",
+		"firstName": "Tore",
+		"lastName": "x",
+		"password": "",
+		"sipUser": "1003",
+		"sipHost": "tmgdemo3.telemagic.no",
+		"sipSecret": "",
+		"roles": [
+			"agent",
+			"experimental"
+		],
+		"permissions": {
+			"accessAllJobs": false,
+			"disableStartManual": false,
+			"accessOwnRecordings": false,
+			"accessRecordings": false,
+			"remotelogin": true
+		}
+	},
+	{
+		"address": "x",
+		"domain": "defaultDomain",
+		"username": "Roger",
+		"city": "x",
+		"agentId": "1236778",
+		"firstName": "Roger",
+		"lastName": "Jørgensen",
+		"password": "",
+		"phoneNumber": "",
+		"sipUser": "1017",
+		"sipHost": "tmgdemo3.telemagic.no",
+		"sipSecret": "",
+		"roles": [
+			"agent",
+			"boffice",
+			"bookingowner",
+			"admin"
+		],
+		"permissions": {
+			"accessAllJobs": false,
+			"disableStartManual": false,
+			"accessOwnRecordings": false,
+			"accessRecordings": false,
+			"remotelogin": false
+		}
+	},
+	{
+		"address": "x",
+		"domain": "defaultDomain",
+		"username": "RogerSIP",
+		"city": "x",
+		"agentId": "9992",
+		"firstName": "x",
+		"lastName": "x",
+		"password": "",
+		"phoneNumber": "",
+		"sipUser": "1018",
+		"sipHost": "tmgdemo3.telemagic.no",
+		"sipSecret": "",
+		"roles": [
+			"agent",
+			"admin"
+		],
+		"permissions": {
+			"accessAllJobs": false,
+			"disableStartManual": false,
+			"accessOwnRecordings": false,
+			"remotelogin": false,
+			"accessRecordings": false
+		}
+	},
+	{
+		"address": "",
+		"domain": "defaultDomain",
+		"username": "Sara",
+		"city": "",
+		"agentId": "Sara",
+		"firstName": "",
+		"lastName": "",
+		"password": "",
+		"phoneNumber": "",
+		"sipUser": "1019",
+		"sipHost": "tmgdemo3.telemagic.no",
+		"sipSecret": "",
+		"roles": [
+			"agent",
+			"boffice",
+			"bookingowner",
+			"admin"
+		],
+		"permissions": {
+			"accessAllJobs": false,
+			"disableStartManual": false,
+			"accessOwnRecordings": false,
+			"remotelogin": false,
+			"accessRecordings": false
+		}
+	},
+	{
+		"address": "x",
+		"domain": "defaultDomain",
+		"username": "Dagharald",
+		"city": "Skien",
+		"agentId": "12367",
+		"firstName": "Dag Harald",
+		"lastName": "Johansen",
+		"password": "",
+		"phoneNumber": "",
+		"sipUser": "1022",
+		"sipHost": "tmgdemo3.dyndns.biz",
+		"sipSecret": "",
+		"roles": [
+			"observer",
+			"agent",
+			"boffice",
+			"bookingowner",
+			"admin",
+			"teamleader",
+			"superuser"
+		],
+		"permissions": {
+			"accessAllJobs": true,
+			"disableStartManual": false,
+			"accessOwnRecordings": false,
+			"accessRecordings": false,
+			"remotelogin": true
+		}
+	},
+	{
+		"address": "",
+		"domain": "defaultDomain",
+		"username": "janterje2",
+		"city": "",
+		"agentId": "9997",
+		"firstName": "",
+		"lastName": "",
+		"password": "",
+		"phoneNumber": "",
+		"sipUser": "1024",
+		"sipHost": "tmgdemo3.telemagic.no",
+		"sipSecret": "",
+		"roles": [
+			"agent",
+			"admin"
+		],
+		"permissions": {
+			"accessAllJobs": false,
+			"disableStartManual": false,
+			"accessOwnRecordings": false,
+			"remotelogin": true,
+			"accessRecordings": false
+		}
+	},
+	{
+		"address": "Neptunveien 19",
+		"domain": "defaultDomain",
+		"username": "assignment",
+		"city": "Månen",
+		"agentId": "23123",
+		"firstName": "Ass",
+		"lastName": "Ignement",
+		"password": "",
+		"phoneNumber": "",
+		"sipUser": "1000",
+		"sipHost": "tmgdemo3.telemagic.no",
+		"sipSecret": "",
+		"roles": [
+			"agent"
+		],
+		"permissions": {
+			"accessAllJobs": false,
+			"disableStartManual": false,
+			"accessOwnRecordings": false,
+			"accessRecordings": false,
+			"remotelogin": true
+		}
+	},
+	{
+		"address": "",
+		"domain": "defaultDomain",
+		"username": "db1konsult",
+		"city": "",
+		"agentId": "9998",
+		"firstName": "",
+		"lastName": "",
+		"password": "",
+		"phoneNumber": "",
+		"sipUser": "1001",
+		"sipHost": "tmgdemo3.telemagic.no",
+		"sipSecret": "",
+		"roles": [
+			"agent",
+			"admin"
+		],
+		"permissions": {
+			"accessAllJobs": false,
+			"disableStartManual": false,
+			"accessOwnRecordings": false,
+			"accessRecordings": false,
+			"remotelogin": true
+		}
+	},
+	{
+		"address": "",
+		"domain": "defaultDomain",
+		"username": "tmgsuperuser",
+		"city": "",
+		"agentId": "tmgsuperuser",
+		"firstName": "",
+		"lastName": "",
+		"password": "",
+		"sipUser": "1002",
+		"sipHost": "localhost",
+		"sipSecret": "",
+		"roles": [
+			"admin",
+			"superuser"
+		],
+		"permissions": {
+			"accessAllJobs": false,
+			"disableStartManual": false,
+			"accessOwnRecordings": false,
+			"accessRecordings": false,
+			"remotelogin": false
+		}
+	},
+	{
+		"address": "",
+		"domain": "defaultDomain",
+		"username": "Vanessa",
+		"city": "",
+		"agentId": "1122",
+		"firstName": "Vanessa",
+		"lastName": "Halvorsen",
+		"password": "",
+		"phoneNumber": "",
+		"sipUser": "1004",
+		"sipHost": "tmgdemo3.telemagic.no",
+		"sipSecret": "",
+		"roles": [
+			"observer",
+			"agent",
+			"admin",
+			"teamleader"
+		],
+		"permissions": {
+			"accessAllJobs": false,
+			"disableStartManual": false,
+			"accessOwnRecordings": false,
+			"accessRecordings": false,
+			"remotelogin": true
+		}
+	},
+	{
+		"address": "",
+		"domain": "defaultDomain",
+		"username": "andre",
+		"city": "",
+		"agentId": "andre",
+		"firstName": "",
+		"lastName": "",
+		"password": "",
+		"phoneNumber": "",
+		"sipUser": "1005",
+		"sipHost": "tmgdemo3.telemagic.no",
+		"sipSecret": "",
+		"roles": [
+			"agent",
+			"admin"
+		],
+		"permissions": {
+			"accessAllJobs": false,
+			"disableStartManual": false,
+			"accessOwnRecordings": false,
+			"remotelogin": false,
+			"accessRecordings": false
+		}
+	},
+	{
+		"address": "",
+		"domain": "defaultDomain",
+		"username": "facebook",
+		"city": "",
+		"agentId": "facebook",
+		"firstName": "",
+		"lastName": "",
+		"password": "",
+		"phoneNumber": "",
+		"sipUser": "4359",
+		"sipHost": "tmgdemo3.telemagic.no",
+		"sipSecret": "",
+		"roles": [
+			"admin"
+		],
+		"permissions": {
+			"accessAllJobs": false,
+			"disableStartManual": false,
+			"accessOwnRecordings": false,
+			"accessRecordings": false,
+			"remotelogin": false
+		}
+	}
+]
